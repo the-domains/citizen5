@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Citizen5 ]]></title>
         <description><![CDATA[Citizen5 ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/citizen5/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 10:24:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 10:26:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/citizen5/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Può un idea far tornare la sovranità monetaria e creare un sistema monetario ed economico alternativo?]]></title>
-            <description><![CDATA[<article><h1>Può un idea far tornare la sovranità monetaria e creare un sistema monetario ed economico alternativo?</h1><p></p></article>]]></description>
-            <link>undefinedpuo-un-idea-far-tornare-la-sovranita-monetaria-e-creare-un-s/index.html</link>
+            <description><![CDATA[<h1>Può un idea far tornare la sovranità monetaria e creare un sistema monetario ed economico alternativo?</h1>]]></description>
+            <link>https://thegrid.ai/citizen5/puo-un-idea-far-tornare-la-sovranita-monetaria-e-creare-un-s/index.html</link>
             <guid isPermaLink="false">d14998f2-04d8-40b8-bb39-3da63f39f9ff</guid>
-            <pubDate>Fri, 06 May 2016 10:24:42 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 10:26:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
